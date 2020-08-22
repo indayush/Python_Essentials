@@ -5,5 +5,5 @@ words = ['one', 'two', 'three', 'four', 'five']
 
 n = 0
 while(n < 5):
-    print(words[n])
+    print(words[n])             # While loop iterating through array
     n += 1
